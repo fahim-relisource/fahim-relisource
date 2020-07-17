@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Fahim 👋
+I'm currently working at [ReliSource](http://www.relisource.com/) as a **Software Engineer**.
+I'm currently tinkering with .NET Core, React, Angular, Android and other old stuffs. This account is only for official purpose. My personal github account is [this](https://github.com/fahimshahrierrasel)
 
 <!--
 **fahim-relisource/fahim-relisource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
